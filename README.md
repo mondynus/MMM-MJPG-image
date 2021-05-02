@@ -9,12 +9,11 @@ Config:
 
 ```
 {
-        module: 'MMM-MJPG-stream',
+        module: 'MMM-MJPG-image',
         position: 'bottom_bar',
         config: {
                 header: false,
                 url1: 'http://URL TO STREAMING IMAGE 1',
-                url2: 'http://URL TO STREAMING IMAGE 2',
                 width: '100%',
                 height: '480px',
                 moveUp: '60px;',
